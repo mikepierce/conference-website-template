@@ -1,23 +1,23 @@
-# Academic Conference Website Template
+# Conference Website Template
 
-A template website for a (small) academic conference. You can [explore a live version of the website here](https://mikepierce.github.io/conference-website-template/).
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a-Coffee-orange)](https://www.buymeacoffee.com/mpierce)
 
-![Screenshot of the Website](https://raw.githubusercontent.com/mikepierce/conference-website-template/master/screenshot.png)
+A simple HTML/CSS website template for a small, probably academic, conference. 
+It's simple and small, and easy to use, to contrast with something more cumbersome like [hoverboard](https://github.com/gdg-x/hoverboard). 
+You can [explore a live version of the website here](https://mikepierce.github.io/conference-website-template/).
+
+[![Screenshot of the Website](https://raw.githubusercontent.com/mikepierce/conference-website-template/master/screenshot.png)](https://mikepierce.github.io/conference-website-template/)
+
+
+## Sitemap
+
+Replace "WEBSITE" with the actual address where this website is being hosted.
+See the [sitemaps protocol page](https://www.sitemaps.org/protocol.html) for more details.
+
 
 ## Todo
 
- - Reference hoverboard: https://github.com/gdg-x/hoverboard
-  
- - Make the site "mobile friendly", but open an issue where someone could make the site MORE mobile friendly. Be sure to post it in "up for grabs"
-
- - Clean up this README to add some details about how to contribute :) Also really make it clear that this is a SIMPEL HTML/CSS template.
-
- - Uupdate the sitemap
-
- - Open up any more issues that need opening???
-
- - Don't include MathJax, ... but tell users that they should include MathJAX :D
-   I mean just use a CDN https://docs.mathjax.org/en/v2.7-latest/start.html
-
+ - Make the site mobile friendly
 
 
