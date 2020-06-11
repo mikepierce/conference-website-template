@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<!-- replace WEBSITE with the address where this site is being hosted -->
    <url>
-       <loc>http://math.ucr.edu/~mathconn/register</loc>
+       <loc>WEBSITE</loc>
    </url>
    <url>
-       <loc>http://math.ucr.edu/~mathconn/program</loc>
+       <loc>WEBSITE/registration</loc>
    </url>
    <url>
-       <loc>http://math.ucr.edu/~mathconn/directions</loc>
+       <loc>WEBSITE/program</loc>
+   </url>
+   <url>
+       <loc>WEBSITE/directions</loc>
    </url>
 </urlset> 
 
