@@ -1,11 +1,11 @@
 /* main.css */
 
 /* These are the colors and fonts used throughout the webpage.
- * I've listed them here so that users can easily
- * do a search-and-replace for these to change the site theme if they choose.
+ * I've listed them here so that a user may easily
+ * do a search-and-replace for these to change the site theme.
  *   'Roboto',sans-serif; Font for the title text
  *   'Roboto-Slab',serif; Font for the body text 
- *   #fefefe; Background color of the site
+ *   #fafafa; Background color of the site
  *   #505050; Foreground (text) color of the site
  *   #52739e; Navy, "Template" in the logo, current page in navigation, special titles in the Program
  *   #b2132e; Reddish, "Conference" in the logo, hover color for links
@@ -39,7 +39,6 @@ body{
 
 a{color: #b8860b; text-decoration:none;}
 a.current{color: #52739e;}
-a.current:hover{color: #52739e;}
 a.current:hover{color: #e82945;}
 a:hover{color: #b2132e;}
 a:active{color: #e82945;}
