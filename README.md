@@ -5,9 +5,9 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a-Coffee-orange)](https://www.buymeacoffee.com/mpierce)
 
-A simple HTML/CSS website template for a small academic conference. 
-It's simple and small, and easy to use, to contrast with something slick and sophisticated, but cumbersome, like [hoverboard](https://github.com/gdg-x/hoverboard). 
-You can [explore a live version of the website here](https://mikepierce.github.io/conference-website-template/).
+An HTML/CSS website template perfect for a small academic conference. 
+It's simple and clean and easy to use, to contrast with something slicker and more sophisticated like [hoverboard](https://github.com/gdg-x/hoverboard). 
+You can explore a [live version of the website here](https://mikepierce.github.io/conference-website-template/).
 
 ## Installation
 
@@ -27,15 +27,6 @@ See that link for more details, but the basic procedure is this:
  Under *Source* choose the master branch of your forked copy.
  Then your copy of the website will be hosted at `username.github.io/awesome-conference`.
 
-
-## Sitemap
-
-The `sitemap.xml` helps search engines understand the structure of the site.
-In this file, each instance of "WEBSITE" should be replaced
-with the actual address where this website is being hosted.
-See the [sitemaps protocol page](https://www.sitemaps.org/protocol.html) for more details.
-
-
 ## Beautiful Math With MathJax
 
 It may be helpful to include mathematical notation on this website,
@@ -52,4 +43,9 @@ To include math in a page of this website, include the line
 
 in the `<head>` of that page. Then math can by typeset by using LaTeX's math notation enclosed in `\(...\)` delimiters.
 
+## Sitemap
 
+The `sitemap.xml` helps search engines understand the structure of the site.
+In this file, each instance of "WEBSITE" should be replaced
+with the actual address where this website is being hosted.
+See the [sitemaps protocol page](https://www.sitemaps.org/protocol.html) for more details.
