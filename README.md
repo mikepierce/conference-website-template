@@ -6,8 +6,8 @@
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a-Coffee-orange)](https://www.buymeacoffee.com/mpierce)
 
 An HTML/CSS website template perfect for a small academic conference. 
-It's simple and clean and easy to use, to contrast with something slicker and more sophisticated like [hoverboard](https://github.com/gdg-x/hoverboard). 
-You can explore a [live version of the website here](https://mikepierce.github.io/conference-website-template/).
+It's simple and clean and easy to use, to contrast with something slicker and more sophisticated, but potentiall cumbersome, like [hoverboard](https://github.com/gdg-x/hoverboard). 
+You can [explore the template here](https://mikepierce.github.io/conference-website-template/).
 
 ## Installation
 
@@ -32,7 +32,7 @@ See that link for more details, but the basic procedure is this:
 It may be helpful to include mathematical notation on this website,
 especially in the abstracts of talks. 
 This can be done using [MathJax](https://github.com/mathjax/MathJax).
-For an example see the [*programs* page](https://mikepierce.github.io/conference-website-template/program/) of the site.
+For an example see the [*programs* page](https://mikepierce.github.io/conference-website-template/program/) of the template site.
 To include math in a page of this website, include the line
 
 ````HTML
