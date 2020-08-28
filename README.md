@@ -6,8 +6,8 @@
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a-Coffee-orange)](https://www.buymeacoffee.com/mpierce)
 
 An HTML/CSS website template perfect for a small academic conference. 
-It's simple and clean and easy to use, to contrast with something slicker and more sophisticated, but potentiall cumbersome, like [hoverboard](https://github.com/gdg-x/hoverboard). 
-You can [explore the template here](https://mikepierce.github.io/conference-website-template/).
+It's simple and easy to use, to contrast with something slicker but cumbersome like [hoverboard](https://github.com/gdg-x/hoverboard). 
+You can [explore it live here](https://mikepierce.github.io/conference-website-template/).
 
 ## Installation
 
