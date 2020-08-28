@@ -27,7 +27,7 @@ See that link for more details, but the basic procedure is this:
  Under *Source* choose the master branch of your forked copy.
  Then your copy of the website will be hosted at `username.github.io/awesome-conference`.
 
-## Beautiful Math With MathJax
+## Beautiful Math with MathJax
 
 It may be helpful to include mathematical notation on this website,
 especially in the abstracts of talks. 
