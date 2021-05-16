@@ -20,7 +20,8 @@ See that link for more details, but the basic procedure is this:
  1. Create a repository on GitHub titled `username.github.io`, 
  where *username* is your username on GitHub.
 
- 2. Fork this repository, being sure to give your repository a more apt name,
+ 2. Click the green *Use this template* button above, 
+ being sure to give your copy of this repository a more apt name,
  like *awesome-conference*.
 
  3. In your forked copy, go to *Settings* and scroll down to *GitHub Pages*.
@@ -43,7 +44,7 @@ To include math in a page of this website, include the line
 
 in the `<head>` of that page. Then math can by typeset by using LaTeX's math notation enclosed in `\(...\)` delimiters.
 
-## Sitemap
+## Sitemap (optional)
 
 The `sitemap.xml` helps search engines understand the structure of the site.
 In this file, each instance of "WEBSITE" should be replaced
