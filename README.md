@@ -24,7 +24,7 @@ See that link for more details, but the basic procedure is this:
  being sure to give your copy of this repository a more apt name,
  like *awesome-conference*.
 
- 3. In your forked copy, go to *Settings* and scroll down to *GitHub Pages*.
+ 3. In your copy go to *Settings* and scroll down to *GitHub Pages*.
  Under *Source* choose the master branch of your forked copy.
  Then your copy of the website will be hosted at `username.github.io/awesome-conference`.
 
