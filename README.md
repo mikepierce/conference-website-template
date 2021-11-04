@@ -13,8 +13,8 @@ You can [explore it live here](https://mikepierce.github.io/conference-website-t
 
 If you have access to a department web server for hosting, 
 then using this template is as easy as cloning this repository 
-directly into the `.www` folder in your home directory.
-If not you can pretty easily host a website using this template using [github pages](https://pages.github.com/).
+directly into your public HTML directory.
+If not you can pretty easily host a website using this template with [github pages](https://pages.github.com/).
 See that link for more details, but the basic procedure is this:
 
  1. Create a repository on GitHub titled `username.github.io`, 
