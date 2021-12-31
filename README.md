@@ -5,8 +5,8 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a-Coffee-orange)](https://www.buymeacoffee.com/mpierce)
 
-An HTML/CSS website template perfect for a small academic conference. 
-It's simple and easy to use, to contrast with something slicker but cumbersome like [hoverboard](https://github.com/gdg-x/hoverboard). 
+An HTML/CSS website template perfect for a small academic conference or seminar.
+It's quick and straightforward to customize.
 You can [explore it live here](https://mikepierce.github.io/conference-website-template/).
 
 ## Installation
@@ -50,3 +50,15 @@ The `sitemap.xml` helps search engines understand the structure of the site.
 In this file, each instance of "WEBSITE" should be replaced
 with the actual address where this website is being hosted.
 See the [sitemaps protocol page](https://www.sitemaps.org/protocol.html) for more details.
+
+## Alternatives
+
+The simplicity of the HTML/CSS source for this template is its strongest feature.
+For something more slick/modern/sophisticated/complicated:
+
+ - [Hoverboard](https://github.com/gdg-x/hoverboard) is beautiful but requires some tech know-how.
+
+ - You can build something from scratch based on a 
+ [GitHub Pages site with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll) 
+ or a template from [Pixelarity](https://pixelarity.com).
+
