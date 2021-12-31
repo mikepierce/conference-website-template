@@ -7,20 +7,28 @@
 
 An HTML/CSS website template perfect for a small academic conference or seminar.
 It's quick and straightforward to customize.
-You can [explore it live here](https://mikepierce.github.io/conference-website-template/).
+You can [explore it live here](https://mikepierce.github.io/conference-website-template/),
+and see some folks' use of the template
+[here](https://math.ucr.edu/~mathconn/) 
+and [here](https://data-science-conference.github.io) 
+and [here](https://aquaticdatasciopensci.github.io) 
+and [here](https://comp-expe.github.io) 
+and [here](https://enba-phd-call.github.io).
+Let me know if you create a nice site from my template so I can feature you here ☺
 
 ## Installation
 
-If you have access to a department web server for hosting, 
+If you have access to server for web hosting, 
+perhaps through your university or academic department, 
 then using this template is as easy as cloning this repository 
 directly into your public HTML directory.
-If not you can pretty easily host a website using this template with [github pages](https://pages.github.com/).
+If not you can pretty easily host a website using this template with [GitHub Pages](https://pages.github.com/).
 See that link for more details, but the basic procedure is this:
 
- 1. Create a repository on GitHub titled `username.github.io`, 
+ 1. Create a GitHub repository named `username.github.io`, 
  where *username* is your username on GitHub.
 
- 2. Click the green *Use this template* button above, 
+ 2. Click the *Use this template* button above, 
  being sure to give your copy of this repository a more apt name,
  like *awesome-conference*.
 
