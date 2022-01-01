@@ -14,7 +14,7 @@ and [here](https://data-science-conference.github.io)
 and [here](https://aquaticdatasciopensci.github.io) 
 and [here](https://comp-expe.github.io) 
 and [here](https://enba-phd-call.github.io).
-Let me know if you create a nice site from my template so I can feature you here ☺
+I'd be happy to see the site you create from my template ☺
 
 ## Installation
 
@@ -36,10 +36,9 @@ See that link for more details, but the basic procedure is this:
  Under *Source* choose the master branch of your forked copy.
  Then your copy of the website will be hosted at `username.github.io/awesome-conference`.
 
-## Beautiful Math with MathJax
+## Beautiful Math with MathJax (optional)
 
-It may be helpful to include mathematical notation on this website,
-especially in the abstracts of talks. 
+It may be helpful to include mathematical notation on this website, especially in the abstracts of talks. 
 This can be done using [MathJax](https://github.com/mathjax/MathJax).
 For an example see the [*programs* page](https://mikepierce.github.io/conference-website-template/program/) of the template site.
 To include math in a page of this website, include the line
@@ -50,11 +49,11 @@ To include math in a page of this website, include the line
 </script>
 ````
 
-in the `<head>` of that page. Then math can by typeset by using LaTeX's math notation enclosed in `\(...\)` delimiters.
+in the `<head>` of the HTML file. Then math can by typeset by using LaTeX's math notation enclosed in `\(...\)` delimiters.
 
 ## Sitemap (optional)
 
-The `sitemap.xml` helps search engines understand the structure of the site.
+The file `sitemap.xml` helps search engines understand the structure of your site.
 In this file, each instance of "WEBSITE" should be replaced
 with the actual address where this website is being hosted.
 See the [sitemaps protocol page](https://www.sitemaps.org/protocol.html) for more details.
@@ -62,9 +61,9 @@ See the [sitemaps protocol page](https://www.sitemaps.org/protocol.html) for mor
 ## Alternatives
 
 The simplicity of the HTML/CSS source for this template is its strongest feature.
-For something more slick/modern/sophisticated/complicated:
+For something more slick or modern or sophisticated or complicated:
 
- - [Hoverboard](https://github.com/gdg-x/hoverboard) is beautiful but requires some tech know-how.
+ - [Hoverboard](https://github.com/gdg-x/hoverboard) is beautiful but requires some tech know-how to setup. 
 
  - You can build something from scratch based on a 
  [GitHub Pages site with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll) 
