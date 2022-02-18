@@ -41,7 +41,7 @@ See that link for more details, but the basic procedure is this:
 It may be helpful to include mathematical notation on this website, especially in the abstracts of talks. 
 This can be done using [MathJax](https://github.com/mathjax/MathJax).
 For an example see the [*programs* page](https://mikepierce.github.io/conference-website-template/program/) of the template site.
-To include math in a page of this website, include the line
+To include math in a page of this website, include the lines
 
 ````HTML
 <script type="text/javascript" async 
