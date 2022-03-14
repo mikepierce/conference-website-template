@@ -13,7 +13,8 @@ and see some folks' use of the template
 and [here](https://data-science-conference.github.io) 
 and [here](https://aquaticdatasciopensci.github.io) 
 and [here](https://comp-expe.github.io) 
-and [here](https://enba-phd-call.github.io).
+and [here](https://enba-phd-call.github.io)
+and [here](https://strl2022.github.io).
 I'd be happy to see the site you create from my template ☺
 
 ## Installation
