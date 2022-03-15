@@ -5,8 +5,8 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a-Coffee-orange)](https://www.buymeacoffee.com/mpierce)
 
-An HTML/CSS website template perfect for a small academic conference or seminar.
-It's quick and straightforward to customize.
+An HTML/CSS website template perfect for a small academic or technology conference or seminar.
+The template is quick to deploy and straightforward to customize.
 You can [explore it live here](https://mikepierce.github.io/conference-website-template/),
 and see some folks' use of the template
 [here](https://math.ucr.edu/~mathconn/) 
@@ -20,7 +20,7 @@ I'd be happy to see the site you create from my template ☺
 ## Installation
 
 If you have access to server for web hosting, 
-perhaps through your university or academic department, 
+perhaps through your company/university or department, 
 then using this template is as easy as cloning this repository 
 directly into your public HTML directory.
 If not you can pretty easily host a website using this template with [GitHub Pages](https://pages.github.com/).
