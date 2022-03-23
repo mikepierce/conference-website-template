@@ -19,7 +19,7 @@ I'd be happy to see the site you create from my template ☺
 
 ## Installation
 
-If you have access to server for web hosting, 
+If you have access to a server for web hosting, 
 perhaps through your company/university or department, 
 then using this template is as easy as cloning this repository 
 directly into your public HTML directory.
