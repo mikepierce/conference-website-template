@@ -37,6 +37,15 @@ See that link for more details, but the basic procedure is this:
  Under *Source* choose the master branch of your forked copy.
  Then your copy of the website will be hosted at `username.github.io/awesome-conference`.
 
+## Editing the Template
+
+If you have not edited HTML/CSS to design a webpage before, 
+I encourage you to read 
+[How to Build a Personal Webpage from Scratch](https://rutar.org/writing/how-to-build-a-personal-webpage-from-scratch/)
+by Alex Rutar, particularly the 
+[Crash course in HTML and CSS](https://rutar.org/writing/how-to-build-a-personal-webpage-from-scratch/#crash-course-in-html-and-css) 
+section.
+
 ## Beautiful Math with MathJax (optional)
 
 It may be helpful to include mathematical notation on this website, especially in the abstracts of talks. 
